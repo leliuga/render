@@ -6,7 +6,7 @@ Render is a Go package that provides renders.
 
 ## Requirements
 
-Go 1.15 or above.
+Go 1.19 or above.
 
 ## Getting Started
 
