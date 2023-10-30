@@ -1,5 +1,7 @@
 # Render 👋
 
+!!! Deprecated repo !!! Moved to https://github.com/leliuga/cdk/tree/main/render
+
 ## Description
 
 Render is a Go package that provides renders.
